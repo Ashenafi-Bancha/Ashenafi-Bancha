@@ -16,7 +16,7 @@
 - 🏗 Building **real-world projects** to sharpen my skills  
 
 ### 💬 Let's Connect!  
-- 💌 [Email](ashenafibanchabassa01@gmail.com)  
+- 💌 [Email](mailto:ashenafibanchabassa01@gmail.com)  
 - 🔗 [LinkedIn](https://et.linkedin.com/in/ashenafi-bancha-8b785629b)  
  
 
