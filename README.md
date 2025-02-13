@@ -13,7 +13,9 @@
 - **Tools & Workflow:** Git, GitHub, Agile (Scrum & Sprints), VS Code  
 
 ### 📌 Current Focus   
-- 🏗 Building **real-world projects** to sharpen my skills  
+- 🏗 Building **real-world projects** to sharpen my skills
+- 🔥 Learning and working on **FreeCodeCamp concepts and projects**
+ - 🔥 Learning and working on **The Odin Projectss**   
 
 ### 💬 Let's Connect!  
 - 💌 [Email](mailto:ashenafibanchabassa01@gmail.com)
