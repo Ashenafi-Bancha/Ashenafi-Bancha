@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there! 👋 I'm Ashenafi Bancha Bassa  
 
-- 🌱 I’m currently learning ...
-<!--
-**Ashenafi-Bancha/Ashenafi-Bancha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌱 About Me  
+- 🎓 3rd-year Computer Science student at Addis Ababa University  
+- 💻 Full-stack developer with a focus on **web development**    
+- 📚 Exploring **Git, GitHub, Linux, Python, and Django**  
+- 🎯 Passionate about **building impactful solutions**  
 
-Here are some ideas to get you started:
+### 🔨 Tech Stack  
+- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Backend:** Django, Node.js, Express.js  
+- **Database:** MySQL  
+- **Tools & Workflow:** Git, GitHub, Agile (Scrum & Sprints), VS Code  
 
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Current Focus   
+- 🏗 Building **real-world projects** to sharpen my skills  
+
+### 💬 Let's Connect!  
+- 💌 [Email](ashenafibanchabassa01@gmail.com)  
+- 🔗 [LinkedIn](https://et.linkedin.com/in/ashenafi-bancha-8b785629b)  
+ 
+
+⚡ **Fun fact:** I love networking—both in tech & meeting new people!  
+
