@@ -3,13 +3,13 @@
 ### 🌱 About Me  
 - 🎓 3rd-year Computer Science student at Addis Ababa University  
 - 💻 Full-stack developer with a focus on **web development**    
-- 📚 Exploring **Git, GitHub, Linux, Python, and Django**  
+- 📚 Exploring **Git, GitHub, Linux, Python, JavaScript, and Django**  
 - 🎯 Passionate about **building impactful solutions**  
 
 ### 🔨 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  
+- **Frontend:** HTML, CSS, JavaScript, React, Redux,Bootstrap 
 - **Backend:** Django, Node.js, Express.js  
-- **Database:** MySQL  
+- **Database:** MySQL, PostgreSQL  
 - **Tools & Workflow:** Git, GitHub, Agile (Scrum & Sprints), VS Code  
 
 ### 📌 Current Focus   
