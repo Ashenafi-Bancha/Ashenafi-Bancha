@@ -19,7 +19,7 @@
 
 ### 💬 Let's Connect!  
 - 💌 [Email](mailto:ashenafibanchabassa01@gmail.com)
-- 📲 [Telegram](https://t.me/@Ashenafi_Bancha) 
+- 📲 [Telegram](https://t.me/@ashancha) 
 - 🔗 [LinkedIn](https://et.linkedin.com/in/ashenafi-bancha-8b785629b)  
  
 
