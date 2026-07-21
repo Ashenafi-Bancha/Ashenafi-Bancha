@@ -1,7 +1,7 @@
 ## Hi there! 👋 I'm Ashenafi Bancha Bassa  
 
 ### 🌱 About Me  
-- 🎓 4th-year Computer Science student at Addis Ababa University  
+- 🎓Computer Science graduate from Addis Ababa University  
 - 💻 Full-stack developer with a focus on **web development**    
 - 📚 Exploring **Git, GitHub, Linux, Python, JavaScript, and Django**  
 - 🎯 Passionate about **building impactful solutions**  
@@ -14,8 +14,10 @@
 
 ### 📌 Current Focus   
 - 🏗 Building **real-world projects** to sharpen my skills
-- 🔥 Learning and working on **FreeCodeCamp concepts and projects**
- - 🔥 Learning and working on **The Odin Projectss**   
+- 🔥 Learning and working on **FreeCodeCamp concepts and projects**, **Coursera Courses Provided by Meta**
+- 🔥I have provided many real world projects to clients 
+ - 🔥 Learning and working on **The Odin Projectss**
+  
 
 ### 💬 Let's Connect!  
 - 💌 [Email](mailto:ashenafibanchabassa01@gmail.com)
