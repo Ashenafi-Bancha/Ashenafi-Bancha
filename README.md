@@ -22,7 +22,7 @@
 ### 💬 Let's Connect!  
 - 💌 [Email](mailto:ashenafibanchabassa01@gmail.com)
 - 📲 [Telegram](https://t.me/@ashancha) 
-- 🔗 [LinkedIn](https://et.linkedin.com/in/ashenafi-bancha-8b785629b)  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/ashenafi-bancha/)  
  
 
 ⚡ **Fun fact:** I love networking—both in tech & meeting new people!  
