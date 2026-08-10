@@ -1,10 +1,8 @@
-## Hi there! 👋 I'm Ashenafi Bancha Bassa  
+##👋 HI I'm Ashenafi Bancha 
+##💻 Full-Stack Software Engineer | Computer Science Graduate
 
 ### 🌱 About Me  
-- 🎓Computer Science graduate from Addis Ababa University  
-- 💻 Full-stack developer with a focus on **web development**    
-- 📚 Exploring **Git, GitHub, Linux, Python, JavaScript, and Django**  
-- 🎯 Passionate about **building impactful solutions**  
+I’m a Computer Science graduate from Addis Ababa University and a Full-Stack Software Engineer passionate about building scalable, user-focused applications and solving real-world problems through software.
 
 ### 🔨 Tech Stack  
 - **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Tailwind, Next.js
