@@ -1,8 +1,7 @@
-##👋 HI I'm Ashenafi Bancha 
-
-##💻 Full-Stack Software Engineer | Computer Science Graduate
+## 👋 HI I'm Ashenafi Bancha 
 
 ### 🌱 About Me  
+## 💻 Full-Stack Software Engineer | Computer Science Graduate
 I’m a Computer Science graduate from Addis Ababa University and a Full-Stack Software Engineer passionate about building scalable, user-focused applications and solving real-world problems through software.
 
 ### 🔨 Tech Stack  
