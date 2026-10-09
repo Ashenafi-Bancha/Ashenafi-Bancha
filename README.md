@@ -1,27 +1,59 @@
-## 👋 HI I'm Ashenafi Bancha 
+## 👋 HI I'm Ashenafi Bancha
 
-### 🌱 About Me  
+### 🌱 About Me
+
 ## 💻 Full-Stack Software Engineer | Computer Science Graduate
+
 I’m a Computer Science graduate from Addis Ababa University and a Full-Stack Software Engineer passionate about building scalable, user-focused applications and solving real-world problems through software.
 
-### 🔨 Tech Stack  
-- **Frontend:** HTML, CSS, JavaScript, React.js, Redux, Tailwind, Next.js
-- **Backend:** Django, Node.js, Express.js  
-- **Database:** MySQL, PostgreSQL, MongoDB  
-- **Tools & Workflow:** Git, GitHub, Agile (Scrum & Sprints), VS Code, Linux(Ubuntu) 
+### 🔨 Tech Stack
 
-### 📌 Current Focus   
-- 🏗 Building **real-world projects** to sharpen my skills
-- 🔥 Learning and working on **FreeCodeCamp concepts and projects**, **Coursera Courses Provided by Meta**
-- 🔥I have provided many real world projects to clients 
- - 🔥 Learning and working on **The Odin Projectss**
-  
+* **Frontend:** HTML, CSS, JavaScript, TypeScript, React.js, Next.js, Redux, Tailwind CSS
+* **Backend:** Node.js, Express.js, Django
+* **Database:** PostgreSQL, MongoDB
+* **Tools & Workflow:** Git, GitHub, Docker, Agile (Scrum & Sprints), VS Code, Linux (Ubuntu)
 
-### 💬 Let's Connect!  
-- 💌 [Email](mailto:ashenafibanchabassa01@gmail.com)
-- 📲 [Telegram](https://t.me/@ashancha) 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/ashenafi-bancha/)  
- 
+### 🤖 AI-Powered Development Tools
 
-⚡ **Fun fact:** I love networking—both in tech & meeting new people!  
+* **Claude Code**
+* **Cursor**
+* **GitHub Copilot**
+
+### ☁️ Cloud & Deployment Platforms
+
+* **DigitalOcean**
+* **Vercel**
+* **Render**
+* **Aeon**
+* **AletCloud**
+
+### 🚀 Projects I've Built & Shipped
+
+* **[Lidya Cultural Food Zone](https://lidyaculturalfood.com)** — Restaurant website and digital menu.
+* **[Marota Film & Software College](https://marota.tech)** — Website for a creative and software technology college.
+* **[Bushaashe Garuwa](https://bushashegaruwa.com)** — Website showcasing Wolaita culture, traditions, and heritage.
+* **[Denver Black Limo](https://denverblacklimollc.com)** — Website for a luxury transportation business.
+* **[Addis Limo](https://addislimo.com)** — Digital platform for a transportation business.
+* **ZemenMenu** — SaaS platform for hotel, restaurant, and café management, featuring digital menus.
+* **[EthioFund](https://ethiofund.com)** — Crowdfunding platform developed as my university capstone project.
+
+### 📌 Current Focus
+
+* 🏗 Building and deploying real-world software projects for clients.
+* 🚀 Developing SaaS products and business management solutions.
+* 🤖 Learning Artificial Intelligence, Machine Learning, and Large Language Models (LLMs).
+* 🧠 Exploring AI engineering and integrating AI into practical applications.
+* 🔥 Learning through **freeCodeCamp**, **Meta courses on Coursera**, and **The Odin Project**.
+* 🌍 Using technology to solve real-world problems and create opportunities.
+
+### 💬 Let's Connect!
+
+* 🌐 **Portfolio:** [ashenafi.dev](https://ashenafi.dev)
+* 💌 **Email:** [ashenafibanchabassa01@gmail.com](mailto:ashenafibanchabassa01@gmail.com)
+* 📲 **Telegram:** [@ashancha](https://t.me/ashancha)
+* 🔗 **LinkedIn:** [Ashenafi Bancha](https://www.linkedin.com/in/ashenafi-bancha/)
+* 💻 **GitHub:** [Ashenafi-Bancha](https://github.com/Ashenafi-Bancha)
+
+⚡ **Fun fact:** I love networking—both in tech and meeting new people!
+
 
